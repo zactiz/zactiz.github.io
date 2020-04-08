@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-08T19:28:40.942Z</updated>
+  <updated>2020-04-08T20:26:15.901Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2020/04/08/%E6%98%AF%E7%BB%93%E8%AF%AD%E4%B9%9F%E6%98%AF%E5%BA%8F/"/>
     <id>http://yoursite.com/2020/04/08/%E6%98%AF%E7%BB%93%E8%AF%AD%E4%B9%9F%E6%98%AF%E5%BA%8F/</id>
     <published>2020-04-08T17:22:33.000Z</published>
-    <updated>2020-04-08T19:28:40.942Z</updated>
+    <updated>2020-04-08T20:26:15.901Z</updated>
     
-    <content type="html"><![CDATA[<p>这里是序言<br>于2020.4.8 芝加哥</p>]]></content>
+    <content type="html"><![CDATA[<p>这里是序言<br>还没想好写什么<br>今天晚上开始动笔吧<br>于2020.4.8 芝加哥</p>]]></content>
     
     <summary type="html">
     
@@ -38,6 +38,10 @@
     </summary>
     
     
+      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+    
+    
+      <category term="序言" scheme="http://yoursite.com/tags/%E5%BA%8F%E8%A8%80/"/>
     
   </entry>
   
