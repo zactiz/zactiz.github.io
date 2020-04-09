@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-08T20:26:15.901Z</updated>
+  <updated>2020-04-09T01:50:26.442Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Untitled</title>
+    <link href="http://yoursite.com/2020/04/08/Untitled/"/>
+    <id>http://yoursite.com/2020/04/08/Untitled/</id>
+    <published>2020-04-09T01:50:26.442Z</published>
+    <updated>2020-04-09T01:50:26.442Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>是结语也是序</title>
@@ -38,7 +53,7 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="序言" scheme="http://yoursite.com/tags/%E5%BA%8F%E8%A8%80/"/>
@@ -67,7 +82,7 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="回忆" scheme="http://yoursite.com/tags/%E5%9B%9E%E5%BF%86/"/>
@@ -100,7 +115,7 @@
     </summary>
     
     
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
+      <category term="关于旅行" scheme="http://yoursite.com/categories/travel/"/>
     
     
       <category term="重逢" scheme="http://yoursite.com/tags/%E9%87%8D%E9%80%A2/"/>
@@ -129,7 +144,7 @@
     </summary>
     
     
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
+      <category term="关于旅行" scheme="http://yoursite.com/categories/travel/"/>
     
     
       <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -160,7 +175,7 @@
     </summary>
     
     
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
+      <category term="关于旅行" scheme="http://yoursite.com/categories/travel/"/>
     
     
       <category term="离别" scheme="http://yoursite.com/tags/%E7%A6%BB%E5%88%AB/"/>
@@ -189,7 +204,7 @@
     </summary>
     
     
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
+      <category term="关于旅行" scheme="http://yoursite.com/categories/travel/"/>
     
     
       <category term="离别" scheme="http://yoursite.com/tags/%E7%A6%BB%E5%88%AB/"/>
@@ -220,7 +235,7 @@
     </summary>
     
     
-      <category term="关于文学" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%A6/"/>
+      <category term="关于文学" scheme="http://yoursite.com/categories/literature/"/>
     
     
       <category term="诗歌" scheme="http://yoursite.com/tags/%E8%AF%97%E6%AD%8C/"/>
@@ -249,7 +264,7 @@
     </summary>
     
     
-      <category term="关于文学" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%A6/"/>
+      <category term="关于文学" scheme="http://yoursite.com/categories/literature/"/>
     
     
       <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
@@ -278,7 +293,7 @@
     </summary>
     
     
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
+      <category term="关于旅行" scheme="http://yoursite.com/categories/travel/"/>
     
     
       <category term="飞行" scheme="http://yoursite.com/tags/%E9%A3%9E%E8%A1%8C/"/>
@@ -307,7 +322,7 @@
     </summary>
     
     
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
+      <category term="关于旅行" scheme="http://yoursite.com/categories/travel/"/>
     
     
       <category term="想象" scheme="http://yoursite.com/tags/%E6%83%B3%E8%B1%A1/"/>
@@ -336,7 +351,7 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="日记" scheme="http://yoursite.com/tags/%E6%97%A5%E8%AE%B0/"/>
@@ -365,7 +380,7 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="春天" scheme="http://yoursite.com/tags/%E6%98%A5%E5%A4%A9/"/>
@@ -394,7 +409,7 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -423,7 +438,7 @@
     </summary>
     
     
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
+      <category term="关于旅行" scheme="http://yoursite.com/categories/travel/"/>
     
     
       <category term="冬天" scheme="http://yoursite.com/tags/%E5%86%AC%E5%A4%A9/"/>
@@ -452,7 +467,7 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="总结" scheme="http://yoursite.com/tags/%E6%80%BB%E7%BB%93/"/>
@@ -481,7 +496,7 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
@@ -510,7 +525,7 @@
     </summary>
     
     
-      <category term="关于文学" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%96%87%E5%AD%A6/"/>
+      <category term="关于文学" scheme="http://yoursite.com/categories/literature/"/>
     
     
       <category term="雨季" scheme="http://yoursite.com/tags/%E9%9B%A8%E5%AD%A3/"/>
@@ -541,7 +556,7 @@
     </summary>
     
     
-      <category term="关于世界" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C/"/>
+      <category term="关于世界" scheme="http://yoursite.com/categories/world/"/>
     
     
       <category term="自由" scheme="http://yoursite.com/tags/%E8%87%AA%E7%94%B1/"/>
@@ -570,39 +585,10 @@
     </summary>
     
     
-      <category term="关于自己" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E8%87%AA%E5%B7%B1/"/>
+      <category term="关于自己" scheme="http://yoursite.com/categories/me/"/>
     
     
       <category term="序言" scheme="http://yoursite.com/tags/%E5%BA%8F%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>愿岁月静好</title>
-    <link href="http://yoursite.com/2015/10/13/%E6%84%BF%E5%B2%81%E6%9C%88%E9%9D%99%E5%A5%BD/"/>
-    <id>http://yoursite.com/2015/10/13/%E6%84%BF%E5%B2%81%E6%9C%88%E9%9D%99%E5%A5%BD/</id>
-    <published>2015-10-14T02:20:04.000Z</published>
-    <updated>2020-04-08T21:09:02.566Z</updated>
-    
-    <content type="html"><![CDATA[<p>正在一架由加州飞往芝加哥的飞机上，没有什么颠簸，安稳得就像近来的生活。在这个midterm期间，给自己放了一个短短的假期，四天时间说短也不短，足够在三藩好好品味一番了。慵懒的海鸥，陡峭的马路，绚烂的夜晚，缤纷的彩虹，一幕幕被重新编辑进记忆的长河里。距离上次来这个充满阳光的地方已经有四年了，还依稀记得这里发生的种种。远方的岛屿隔着海，我依在码头边，好似产生了熟悉的感觉，不知道躺在那边的海狮们还记不记得我曾经来过。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          
-        
-      
-    
-    </summary>
-    
-    
-      <category term="关于旅行" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E6%97%85%E8%A1%8C/"/>
-    
-    
-      <category term="飞行" scheme="http://yoursite.com/tags/%E9%A3%9E%E8%A1%8C/"/>
     
   </entry>
   
