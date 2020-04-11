@@ -38,7 +38,7 @@
     </summary>
     
     
-      <category term="关于科技" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E7%A7%91%E6%8A%80/"/>
+      <category term="关于科技" scheme="http://yoursite.com/categories/technology/"/>
     
     
       <category term="科技" scheme="http://yoursite.com/tags/%E7%A7%91%E6%8A%80/"/>
@@ -220,7 +220,7 @@
     </summary>
     
     
-      <category term="关于科技" scheme="http://yoursite.com/categories/%E5%85%B3%E4%BA%8E%E7%A7%91%E6%8A%80/"/>
+      <category term="关于科技" scheme="http://yoursite.com/categories/technology/"/>
     
     
       <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
